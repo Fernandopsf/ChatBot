@@ -1,0 +1,25 @@
+
+[
+
+{
+    "resposta_tipo": "cumprimento",
+    "user_input":["ola","oi","como vai?"],
+    "bot_resposta": "oi tudo bem?",
+    "required_words": []
+},
+
+{
+    "resposta_tipo": "despedida",
+    "user_input":["tchau","ate mais","vou indo nessa"],
+    "bot_resposta": "ate a proxima",
+    "required_words": []
+},
+
+{
+    "resposta_tipo": "pergunta",
+    "user_input":["como","você","esta?","e","voce?","sim"],
+    "bot_resposta": "estou bem obrigado",
+    "required_words": []
+}
+
+]
